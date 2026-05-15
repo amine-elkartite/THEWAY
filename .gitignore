@@ -3,3 +3,6 @@ node_modules
 .DS_Store
 distnode_modules
 .env
+
+node_modules
+.env
